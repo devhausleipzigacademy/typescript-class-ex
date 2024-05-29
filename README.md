@@ -57,3 +57,42 @@ The method adds the new key-value pair to the object of your products.
 - The method retrieves the price of the product from the prices-object...
 - ... multiplies it by the quantity and...
 - ... adds the income to your balance.
+
+## Using your class
+
+Test your class by creating two new instances of Supermarket.
+
+1. Instance 1: a store in Leipzig with the name "myLeipzig"
+1. Instance 2: a store in Berlin with the name "myBerlin"
+
+### Products in Leipzig
+
+Add the following product-price pairs to your store in Leipzig:
+
+- apple: 0.5
+- banana: 0.2
+- bread: 1.26
+- milk: 1.49
+
+### Products in Berlin
+
+Add the following product-price pairs to your store in Berlin:
+
+- pear: 0.5
+- pineapple: 2.49
+- watermelon: 3.29
+- bread: 1.49
+
+### Selling products
+
+Sell the following products in your store in Leipzig:
+
+- 3 apples, 5 bananas, 2 milk
+
+Sell the following products in your store in Berlin:
+
+- 1 watermelon, 2 bread, 3 pears
+
+### Money?
+
+How much money does each store have? How much money do you have in total?
